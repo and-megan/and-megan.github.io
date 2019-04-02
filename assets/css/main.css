@@ -31,7 +31,7 @@ h3 {
 }
 
 a {
-  color: #9487df;
+  color: #04112e;
 }
 
 .text-container {
@@ -114,4 +114,8 @@ li.nav-item a.nav-link:hover {
   display: flex;
   flex-direction: row-reverse;
   margin-right: 80px;
+}
+
+.links-container {
+  flex-direction: column;
 }
